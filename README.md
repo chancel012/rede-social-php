@@ -14,5 +14,6 @@ auxiliares :
 git rm --cached <file>
 git restore
 git log
-
+git pull origin <branchname>
+git branch : (list das branches)
 */
